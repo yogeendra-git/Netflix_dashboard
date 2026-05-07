@@ -85,7 +85,7 @@ The dashboard uses:
 # 📷 Dashboard Preview
 
 ## Main Dashboard
-![Dashboard Preview](dashboard1.png)
+![Dashboard Preview](https://github.com/yogeendra-git/Netflix_dashboard/blob/main/dashboard_screenshort1.png)
 
 ## Detailed Analytics Dashboard
 
