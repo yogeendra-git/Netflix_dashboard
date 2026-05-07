@@ -114,7 +114,7 @@ The dataset includes:
 
 # 👨‍💻 Author
 
-## Yogeendra
+## Yogeendra G
 
 Passionate about:
 - Data Analytics
